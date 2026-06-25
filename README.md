@@ -41,8 +41,8 @@ Frontend developer с 2+ годами коммерческого опыта.
 
 ## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PolinaBelash&show_icons=true&theme=default&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaBelash&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=pollyBe&show_icons=true&theme=default&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollyBe&layout=compact&hide_border=true)
 
 ---
 
